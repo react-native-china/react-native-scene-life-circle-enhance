@@ -1,7 +1,4 @@
-<div style="display:block;text-align:center;font-size:16px">
-Life circle enhancement for react-native Navigator element
-<div><img src='./scene.png' style="width:100px;margin-top:20px"></img></div>
-</div>
+#### Life circle enhancement for react-native Navigator element
 
 ### Why
 The react-native official document only offer 'didfocus' and 'willfocus' event for us to get things related scene life circle done.
